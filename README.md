@@ -1,2 +1,2 @@
 # Deep_learning
-Tensorflow, keras with ANN & CNN.
+Tensorflow, keras with ANN, CNN, RNN.
